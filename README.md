@@ -1,9 +1,8 @@
 ### Hi there 👋
 ## Asher Leggett
 
-This is me trying to figure out Super Linter
+please read me
 
-[![GitHub Super-Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 <!--
 **asherleggett/asherleggett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
